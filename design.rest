@@ -1,1 +1,7 @@
-GET https://cataas.com/cat
+@site=https://restdesign.dev
+GET {{site}}
+
+###
+
+GET {{site}}/api/customers
+Accept:application/json
