@@ -25,7 +25,7 @@
 
 # REST
 ![alt text](image-6.png)
-- Uniform Interface - A consistent way of interacting with resources, regardless of type.
+- Uniform Interface - A consistent way of interacting with resources, regardless of type of resource we are working with, follow a consistent, standardized pattern
 - Everything is treated as a resource (like users, products, orders), and each has a unique URL.
 - Cacheable requests (or cacheable responses) refer to HTTP responses that can be stored (cached) by the client, browser, or intermediary (like a CDN or proxy) and reused for future requests without contacting the server again — to save time, bandwidth, and server load.
 - it works on top of http protocol
